@@ -1,7 +1,5 @@
 ### Hi!
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving my skills as a Data scientist
 - 🌱 I’m currently learning how to utilize PyTorch in my projects
 - 📫 How to reach me: vojislavstevanovic171@gmail.com
